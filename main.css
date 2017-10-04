@@ -1,0 +1,26 @@
+* {
+box-sizing: border-box;
+margin: 0 auto;
+text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+button{
+  margin: 10px;
+}
+
+/*-------RESPONSIVE DESIGN-------*/
+/*-------Tablet Display-------*/
+
+@media screen and ( min-width: 545px ) {
+
+}
+
+/*-------Desktop Display-------*/
+
+@media screen and ( min-width: 769px ) {
+
+}
